@@ -2,6 +2,8 @@
 
 C# Alarm Windows project.
 
+[![Development Note p.496](https://img.youtube.com/vi/Xm2toPZb764/0.jpg)](https://www.youtube.com/watch?v=Xm2toPZb764)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
